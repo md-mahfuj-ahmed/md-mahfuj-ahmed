@@ -18,7 +18,7 @@
 ---
 
 ### 📫 Let's Connect!
-- [LinkedIn](www.linkedin.com/in/md-mahfuj-ahmed-6170673bb)
+- [LinkedIn](https://www.linkedin.com/in/md-mahfuj-ahmed-6170673bb)
 
 ---
 *"Code is the poetry of logic."*
