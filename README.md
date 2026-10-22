@@ -3,7 +3,6 @@
 ### 🚀 Aspiring AI Engineer | Python Enthusiast | Constant Learner
 
 - 🎓 Currently preparing for my Bachelor's in **Artificial Intelligence / Computer Science**.
-- ✍️ Focusing on **IELTS** preparation for my journey abroad.
 - 🐍 Passionate about **Python** and building logic through code.
 - 🌐 Exploring the world of **Web Development** and **AI**.
 
